@@ -1,7 +1,0 @@
-transaction_id,card_id,timestamp,amount,merchant_category,country,card_present,is_fraud
-txn_0000013,card_00531,2026-02-14T23:13:24Z,,utilities,SG,True,False
-txn_0000139,card_00616,2026-02-09T18:04:54Z,-450.0,travel,SG,False,False
-txn_0000213,,2026-02-15T02:08:44Z,510.15,travel,AE,True,False
-txn_0000322,card_00593,2026-02-02T23:45:15Z,,restaurant,SG,True,False
-txn_0000457,card_00039,2026-03-01T23:58:43Z,49.86,restaurant,US,True,False
-txn_0000581,card_00605,2026-02-24T20:06:31Z,77.34,crypto_kiosk,US,False,False
