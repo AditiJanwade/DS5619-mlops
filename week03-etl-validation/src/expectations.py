@@ -95,7 +95,6 @@ def expect_column_in_set(rows, column, allowed_values):
 
     return violations
 
-
 def expect_column_unique(rows, column):
     """Return a Violation for every row AFTER THE FIRST that repeats a value
     already seen in `column`. (i.e. if three rows share a value, rows 2 and 3

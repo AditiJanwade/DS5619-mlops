@@ -131,8 +131,6 @@ def run_etl(config):
 
     return validation_report
 
-
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", default="config.yaml")
