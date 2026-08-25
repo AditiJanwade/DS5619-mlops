@@ -1,0 +1,17 @@
+{
+  "version_id": "v1",
+  "source_path": "C:\\Users\\Rushikesh\\Downloads\\week04-versioning-feature-store\\week04-versioning-feature-store\\data\\v1\\transactions.csv",
+  "content_hash": "c2d4d1559e25cb724677ea5a9785554a12c5d885e3aecddf23af42a17e4c5fb1",
+  "columns": [
+    "transaction_id",
+    "card_id",
+    "timestamp",
+    "amount",
+    "merchant_category",
+    "country",
+    "card_present",
+    "is_fraud"
+  ],
+  "row_count": 500,
+  "created_at": "2026-08-25T12:31:37.027550+00:00"
+}

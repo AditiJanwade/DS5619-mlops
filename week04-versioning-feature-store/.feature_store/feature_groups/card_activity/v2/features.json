@@ -1,0 +1,962 @@
+[
+  {
+    "card_id": "card_00733",
+    "txn_count": 1,
+    "avg_amount": 39.72,
+    "max_amount": 39.72,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-04T19:36:15Z"
+  },
+  {
+    "card_id": "card_00193",
+    "txn_count": 1,
+    "avg_amount": 6.15,
+    "max_amount": 6.15,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-18T02:36:39Z"
+  },
+  {
+    "card_id": "card_00262",
+    "txn_count": 1,
+    "avg_amount": 92.05,
+    "max_amount": 92.05,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-21T20:24:17Z"
+  },
+  {
+    "card_id": "card_00298",
+    "txn_count": 1,
+    "avg_amount": 18.97,
+    "max_amount": 18.97,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-01T11:17:50Z"
+  },
+  {
+    "card_id": "card_00691",
+    "txn_count": 1,
+    "avg_amount": 895.73,
+    "max_amount": 895.73,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-01T18:20:11Z"
+  },
+  {
+    "card_id": "card_00209",
+    "txn_count": 1,
+    "avg_amount": 223.6,
+    "max_amount": 223.6,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-09T23:21:09Z"
+  },
+  {
+    "card_id": "card_00267",
+    "txn_count": 1,
+    "avg_amount": 229.33,
+    "max_amount": 229.33,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-24T02:58:43Z"
+  },
+  {
+    "card_id": "card_00246",
+    "txn_count": 1,
+    "avg_amount": 20.56,
+    "max_amount": 20.56,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-11T08:12:52Z"
+  },
+  {
+    "card_id": "card_00482",
+    "txn_count": 1,
+    "avg_amount": 156.6,
+    "max_amount": 156.6,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-19T09:08:03Z"
+  },
+  {
+    "card_id": "card_00270",
+    "txn_count": 1,
+    "avg_amount": 33.43,
+    "max_amount": 33.43,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-30T18:10:31Z"
+  },
+  {
+    "card_id": "card_00775",
+    "txn_count": 1,
+    "avg_amount": 113.46,
+    "max_amount": 113.46,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-23T04:20:19Z"
+  },
+  {
+    "card_id": "card_00522",
+    "txn_count": 1,
+    "avg_amount": 477.49,
+    "max_amount": 477.49,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-17T23:46:12Z"
+  },
+  {
+    "card_id": "card_00472",
+    "txn_count": 1,
+    "avg_amount": 1.96,
+    "max_amount": 1.96,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-15T04:44:32Z"
+  },
+  {
+    "card_id": "card_00337",
+    "txn_count": 1,
+    "avg_amount": 303.02,
+    "max_amount": 303.02,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-09T02:05:39Z"
+  },
+  {
+    "card_id": "card_00272",
+    "txn_count": 1,
+    "avg_amount": 2.62,
+    "max_amount": 2.62,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-01T07:30:12Z"
+  },
+  {
+    "card_id": "card_00646",
+    "txn_count": 1,
+    "avg_amount": 93.06,
+    "max_amount": 93.06,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-05T03:54:12Z"
+  },
+  {
+    "card_id": "card_00709",
+    "txn_count": 1,
+    "avg_amount": 108.98,
+    "max_amount": 108.98,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-06T08:11:33Z"
+  },
+  {
+    "card_id": "card_00692",
+    "txn_count": 3,
+    "avg_amount": 48.78,
+    "max_amount": 72.29,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-18T21:53:34Z"
+  },
+  {
+    "card_id": "card_00034",
+    "txn_count": 1,
+    "avg_amount": 326.44,
+    "max_amount": 326.44,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-19T22:56:53Z"
+  },
+  {
+    "card_id": "card_00767",
+    "txn_count": 1,
+    "avg_amount": 37.51,
+    "max_amount": 37.51,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-14T11:40:55Z"
+  },
+  {
+    "card_id": "card_00242",
+    "txn_count": 1,
+    "avg_amount": 46.72,
+    "max_amount": 46.72,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-01T10:16:57Z"
+  },
+  {
+    "card_id": "card_00543",
+    "txn_count": 1,
+    "avg_amount": 34.5,
+    "max_amount": 34.5,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-12T01:15:20Z"
+  },
+  {
+    "card_id": "card_00194",
+    "txn_count": 1,
+    "avg_amount": 195.01,
+    "max_amount": 195.01,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-09T17:42:52Z"
+  },
+  {
+    "card_id": "card_00572",
+    "txn_count": 1,
+    "avg_amount": 204.53,
+    "max_amount": 204.53,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-10T12:32:17Z"
+  },
+  {
+    "card_id": "card_00125",
+    "txn_count": 1,
+    "avg_amount": 36.67,
+    "max_amount": 36.67,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-03T16:37:10Z"
+  },
+  {
+    "card_id": "card_00257",
+    "txn_count": 1,
+    "avg_amount": 3.76,
+    "max_amount": 3.76,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-17T22:03:45Z"
+  },
+  {
+    "card_id": "card_00284",
+    "txn_count": 1,
+    "avg_amount": 30.46,
+    "max_amount": 30.46,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-03T07:37:14Z"
+  },
+  {
+    "card_id": "card_00606",
+    "txn_count": 1,
+    "avg_amount": 36.09,
+    "max_amount": 36.09,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-15T16:40:36Z"
+  },
+  {
+    "card_id": "card_00813",
+    "txn_count": 1,
+    "avg_amount": 58.51,
+    "max_amount": 58.51,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-18T13:07:11Z"
+  },
+  {
+    "card_id": "card_00324",
+    "txn_count": 1,
+    "avg_amount": 15.03,
+    "max_amount": 15.03,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-02T21:30:30Z"
+  },
+  {
+    "card_id": "card_00663",
+    "txn_count": 1,
+    "avg_amount": 44.39,
+    "max_amount": 44.39,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-16T12:34:41Z"
+  },
+  {
+    "card_id": "card_00818",
+    "txn_count": 1,
+    "avg_amount": 12.03,
+    "max_amount": 12.03,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-29T07:55:07Z"
+  },
+  {
+    "card_id": "card_00735",
+    "txn_count": 1,
+    "avg_amount": 131.97,
+    "max_amount": 131.97,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-12T03:30:57Z"
+  },
+  {
+    "card_id": "card_00088",
+    "txn_count": 1,
+    "avg_amount": 162.49,
+    "max_amount": 162.49,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-14T02:05:34Z"
+  },
+  {
+    "card_id": "card_00421",
+    "txn_count": 2,
+    "avg_amount": 130.06,
+    "max_amount": 177.55,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-24T15:22:55Z"
+  },
+  {
+    "card_id": "card_00798",
+    "txn_count": 1,
+    "avg_amount": 47.11,
+    "max_amount": 47.11,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-03T02:12:08Z"
+  },
+  {
+    "card_id": "card_00551",
+    "txn_count": 1,
+    "avg_amount": 20.42,
+    "max_amount": 20.42,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-28T16:17:21Z"
+  },
+  {
+    "card_id": "card_00665",
+    "txn_count": 1,
+    "avg_amount": 106.26,
+    "max_amount": 106.26,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-29T16:07:19Z"
+  },
+  {
+    "card_id": "card_00504",
+    "txn_count": 1,
+    "avg_amount": 80.3,
+    "max_amount": 80.3,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-19T09:11:09Z"
+  },
+  {
+    "card_id": "card_00069",
+    "txn_count": 1,
+    "avg_amount": 307.74,
+    "max_amount": 307.74,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-28T04:45:02Z"
+  },
+  {
+    "card_id": "card_00367",
+    "txn_count": 1,
+    "avg_amount": 56.49,
+    "max_amount": 56.49,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-15T23:26:47Z"
+  },
+  {
+    "card_id": "card_00706",
+    "txn_count": 1,
+    "avg_amount": 16.9,
+    "max_amount": 16.9,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-14T16:44:37Z"
+  },
+  {
+    "card_id": "card_00351",
+    "txn_count": 1,
+    "avg_amount": 123.51,
+    "max_amount": 123.51,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-11T05:12:21Z"
+  },
+  {
+    "card_id": "card_00634",
+    "txn_count": 1,
+    "avg_amount": 59.16,
+    "max_amount": 59.16,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-24T22:49:35Z"
+  },
+  {
+    "card_id": "card_00149",
+    "txn_count": 1,
+    "avg_amount": 274.92,
+    "max_amount": 274.92,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-04T21:34:38Z"
+  },
+  {
+    "card_id": "card_00448",
+    "txn_count": 1,
+    "avg_amount": 53.56,
+    "max_amount": 53.56,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-21T00:49:35Z"
+  },
+  {
+    "card_id": "card_00147",
+    "txn_count": 1,
+    "avg_amount": 65.99,
+    "max_amount": 65.99,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-01T02:54:39Z"
+  },
+  {
+    "card_id": "card_00532",
+    "txn_count": 1,
+    "avg_amount": 5.94,
+    "max_amount": 5.94,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-28T18:04:22Z"
+  },
+  {
+    "card_id": "card_00888",
+    "txn_count": 1,
+    "avg_amount": 80.67,
+    "max_amount": 80.67,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-14T10:09:34Z"
+  },
+  {
+    "card_id": "card_00082",
+    "txn_count": 1,
+    "avg_amount": 71.65,
+    "max_amount": 71.65,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-06T12:13:07Z"
+  },
+  {
+    "card_id": "card_00817",
+    "txn_count": 2,
+    "avg_amount": 167.67,
+    "max_amount": 229.11,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-17T19:03:16Z"
+  },
+  {
+    "card_id": "card_00829",
+    "txn_count": 1,
+    "avg_amount": 49.54,
+    "max_amount": 49.54,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-20T22:15:05Z"
+  },
+  {
+    "card_id": "card_00538",
+    "txn_count": 1,
+    "avg_amount": 57.7,
+    "max_amount": 57.7,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-18T15:02:46Z"
+  },
+  {
+    "card_id": "card_00676",
+    "txn_count": 1,
+    "avg_amount": 80.27,
+    "max_amount": 80.27,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-21T21:57:40Z"
+  },
+  {
+    "card_id": "card_00480",
+    "txn_count": 1,
+    "avg_amount": 12.0,
+    "max_amount": 12.0,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-15T16:10:01Z"
+  },
+  {
+    "card_id": "card_00323",
+    "txn_count": 1,
+    "avg_amount": 23.5,
+    "max_amount": 23.5,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-01T12:59:58Z"
+  },
+  {
+    "card_id": "card_00592",
+    "txn_count": 1,
+    "avg_amount": 52.42,
+    "max_amount": 52.42,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-19T05:40:28Z"
+  },
+  {
+    "card_id": "card_00896",
+    "txn_count": 1,
+    "avg_amount": 19.15,
+    "max_amount": 19.15,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-21T16:48:28Z"
+  },
+  {
+    "card_id": "card_00866",
+    "txn_count": 1,
+    "avg_amount": 26.77,
+    "max_amount": 26.77,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-25T10:28:58Z"
+  },
+  {
+    "card_id": "card_00851",
+    "txn_count": 1,
+    "avg_amount": 60.59,
+    "max_amount": 60.59,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-28T19:12:54Z"
+  },
+  {
+    "card_id": "card_00325",
+    "txn_count": 1,
+    "avg_amount": 363.88,
+    "max_amount": 363.88,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-22T01:32:25Z"
+  },
+  {
+    "card_id": "card_00643",
+    "txn_count": 1,
+    "avg_amount": 47.24,
+    "max_amount": 47.24,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-13T10:25:41Z"
+  },
+  {
+    "card_id": "card_00336",
+    "txn_count": 1,
+    "avg_amount": 286.04,
+    "max_amount": 286.04,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-07T17:14:17Z"
+  },
+  {
+    "card_id": "card_00247",
+    "txn_count": 1,
+    "avg_amount": 152.16,
+    "max_amount": 152.16,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-20T15:21:45Z"
+  },
+  {
+    "card_id": "card_00341",
+    "txn_count": 1,
+    "avg_amount": 301.28,
+    "max_amount": 301.28,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-12T17:45:23Z"
+  },
+  {
+    "card_id": "card_00420",
+    "txn_count": 1,
+    "avg_amount": 64.31,
+    "max_amount": 64.31,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-14T21:14:09Z"
+  },
+  {
+    "card_id": "card_00164",
+    "txn_count": 1,
+    "avg_amount": 29.61,
+    "max_amount": 29.61,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-29T15:15:34Z"
+  },
+  {
+    "card_id": "card_00560",
+    "txn_count": 1,
+    "avg_amount": 13.04,
+    "max_amount": 13.04,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-14T18:57:34Z"
+  },
+  {
+    "card_id": "card_00074",
+    "txn_count": 1,
+    "avg_amount": 20.67,
+    "max_amount": 20.67,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-14T08:01:17Z"
+  },
+  {
+    "card_id": "card_00547",
+    "txn_count": 1,
+    "avg_amount": 43.65,
+    "max_amount": 43.65,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-20T20:32:21Z"
+  },
+  {
+    "card_id": "card_00714",
+    "txn_count": 1,
+    "avg_amount": 165.34,
+    "max_amount": 165.34,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-21T04:07:48Z"
+  },
+  {
+    "card_id": "card_00591",
+    "txn_count": 1,
+    "avg_amount": 213.43,
+    "max_amount": 213.43,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-04T21:06:11Z"
+  },
+  {
+    "card_id": "card_00131",
+    "txn_count": 1,
+    "avg_amount": 12.87,
+    "max_amount": 12.87,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-21T15:55:24Z"
+  },
+  {
+    "card_id": "card_00442",
+    "txn_count": 1,
+    "avg_amount": 61.08,
+    "max_amount": 61.08,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-07T02:49:17Z"
+  },
+  {
+    "card_id": "card_00355",
+    "txn_count": 1,
+    "avg_amount": 64.47,
+    "max_amount": 64.47,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-07T16:06:07Z"
+  },
+  {
+    "card_id": "card_00375",
+    "txn_count": 1,
+    "avg_amount": 643.18,
+    "max_amount": 643.18,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-14T16:38:14Z"
+  },
+  {
+    "card_id": "card_00481",
+    "txn_count": 1,
+    "avg_amount": 77.01,
+    "max_amount": 77.01,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-06T03:50:49Z"
+  },
+  {
+    "card_id": "card_00333",
+    "txn_count": 1,
+    "avg_amount": 972.48,
+    "max_amount": 972.48,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-15T04:43:02Z"
+  },
+  {
+    "card_id": "card_00218",
+    "txn_count": 1,
+    "avg_amount": 83.18,
+    "max_amount": 83.18,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-06T02:20:34Z"
+  },
+  {
+    "card_id": "card_00644",
+    "txn_count": 1,
+    "avg_amount": 180.59,
+    "max_amount": 180.59,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-12T20:52:38Z"
+  },
+  {
+    "card_id": "card_00488",
+    "txn_count": 1,
+    "avg_amount": 71.53,
+    "max_amount": 71.53,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-02T11:08:50Z"
+  },
+  {
+    "card_id": "card_00678",
+    "txn_count": 1,
+    "avg_amount": 17.12,
+    "max_amount": 17.12,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-12T18:48:37Z"
+  },
+  {
+    "card_id": "card_00770",
+    "txn_count": 1,
+    "avg_amount": 57.77,
+    "max_amount": 57.77,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-05T05:42:50Z"
+  },
+  {
+    "card_id": "card_00730",
+    "txn_count": 1,
+    "avg_amount": 25.11,
+    "max_amount": 25.11,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-17T14:19:55Z"
+  },
+  {
+    "card_id": "card_00317",
+    "txn_count": 1,
+    "avg_amount": 27.6,
+    "max_amount": 27.6,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-18T21:02:44Z"
+  },
+  {
+    "card_id": "card_00018",
+    "txn_count": 1,
+    "avg_amount": 96.17,
+    "max_amount": 96.17,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-17T03:45:38Z"
+  },
+  {
+    "card_id": "card_00493",
+    "txn_count": 1,
+    "avg_amount": 19.36,
+    "max_amount": 19.36,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-11T13:27:03Z"
+  },
+  {
+    "card_id": "card_00747",
+    "txn_count": 1,
+    "avg_amount": 80.61,
+    "max_amount": 80.61,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-30T19:01:20Z"
+  },
+  {
+    "card_id": "card_00139",
+    "txn_count": 1,
+    "avg_amount": 74.55,
+    "max_amount": 74.55,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-07T21:53:18Z"
+  },
+  {
+    "card_id": "card_00198",
+    "txn_count": 1,
+    "avg_amount": 52.88,
+    "max_amount": 52.88,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-12T19:12:34Z"
+  },
+  {
+    "card_id": "card_00126",
+    "txn_count": 1,
+    "avg_amount": 9.52,
+    "max_amount": 9.52,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-04T14:15:28Z"
+  },
+  {
+    "card_id": "card_00786",
+    "txn_count": 1,
+    "avg_amount": 7.17,
+    "max_amount": 7.17,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-28T15:51:44Z"
+  },
+  {
+    "card_id": "card_00419",
+    "txn_count": 1,
+    "avg_amount": 111.36,
+    "max_amount": 111.36,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-30T04:19:12Z"
+  },
+  {
+    "card_id": "card_00648",
+    "txn_count": 1,
+    "avg_amount": 35.9,
+    "max_amount": 35.9,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-27T05:43:50Z"
+  },
+  {
+    "card_id": "card_00807",
+    "txn_count": 1,
+    "avg_amount": 531.45,
+    "max_amount": 531.45,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-20T09:42:45Z"
+  },
+  {
+    "card_id": "card_00756",
+    "txn_count": 1,
+    "avg_amount": 182.36,
+    "max_amount": 182.36,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-01T10:20:50Z"
+  },
+  {
+    "card_id": "card_00045",
+    "txn_count": 2,
+    "avg_amount": 95.01,
+    "max_amount": 177.67,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-18T02:49:30Z"
+  },
+  {
+    "card_id": "card_00517",
+    "txn_count": 1,
+    "avg_amount": 108.04,
+    "max_amount": 108.04,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-02T04:11:15Z"
+  },
+  {
+    "card_id": "card_00380",
+    "txn_count": 1,
+    "avg_amount": 158.77,
+    "max_amount": 158.77,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-06T16:15:18Z"
+  },
+  {
+    "card_id": "card_00109",
+    "txn_count": 1,
+    "avg_amount": 524.06,
+    "max_amount": 524.06,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-03T12:26:57Z"
+  },
+  {
+    "card_id": "card_00440",
+    "txn_count": 1,
+    "avg_amount": 161.47,
+    "max_amount": 161.47,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-28T00:07:27Z"
+  },
+  {
+    "card_id": "card_00653",
+    "txn_count": 1,
+    "avg_amount": 132.53,
+    "max_amount": 132.53,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-07T17:28:20Z"
+  },
+  {
+    "card_id": "card_00683",
+    "txn_count": 1,
+    "avg_amount": 67.87,
+    "max_amount": 67.87,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-28T00:34:02Z"
+  },
+  {
+    "card_id": "card_00734",
+    "txn_count": 1,
+    "avg_amount": 33.54,
+    "max_amount": 33.54,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-18T18:32:38Z"
+  },
+  {
+    "card_id": "card_00507",
+    "txn_count": 1,
+    "avg_amount": 309.19,
+    "max_amount": 309.19,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-15T16:14:27Z"
+  },
+  {
+    "card_id": "card_00430",
+    "txn_count": 1,
+    "avg_amount": 28.69,
+    "max_amount": 28.69,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-29T07:43:16Z"
+  },
+  {
+    "card_id": "card_00694",
+    "txn_count": 1,
+    "avg_amount": 107.77,
+    "max_amount": 107.77,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-01T00:19:48Z"
+  },
+  {
+    "card_id": "card_00598",
+    "txn_count": 1,
+    "avg_amount": 156.89,
+    "max_amount": 156.89,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-06T02:23:29Z"
+  },
+  {
+    "card_id": "card_00091",
+    "txn_count": 1,
+    "avg_amount": 222.44,
+    "max_amount": 222.44,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-26T23:11:35Z"
+  },
+  {
+    "card_id": "card_00436",
+    "txn_count": 1,
+    "avg_amount": 130.76,
+    "max_amount": 130.76,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-21T17:05:53Z"
+  },
+  {
+    "card_id": "card_00206",
+    "txn_count": 1,
+    "avg_amount": 76.23,
+    "max_amount": 76.23,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-15T05:59:03Z"
+  },
+  {
+    "card_id": "card_00425",
+    "txn_count": 1,
+    "avg_amount": 94.25,
+    "max_amount": 94.25,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-04T19:24:47Z"
+  },
+  {
+    "card_id": "card_00004",
+    "txn_count": 1,
+    "avg_amount": 97.39,
+    "max_amount": 97.39,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-12T13:25:25Z"
+  },
+  {
+    "card_id": "card_00096",
+    "txn_count": 1,
+    "avg_amount": 540.82,
+    "max_amount": 540.82,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-07T15:38:18Z"
+  },
+  {
+    "card_id": "card_00668",
+    "txn_count": 1,
+    "avg_amount": 125.02,
+    "max_amount": 125.02,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-23T17:35:34Z"
+  },
+  {
+    "card_id": "card_00011",
+    "txn_count": 1,
+    "avg_amount": 13.65,
+    "max_amount": 13.65,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-15T21:31:26Z"
+  },
+  {
+    "card_id": "card_00084",
+    "txn_count": 1,
+    "avg_amount": 42.13,
+    "max_amount": 42.13,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-28T20:22:41Z"
+  },
+  {
+    "card_id": "card_00723",
+    "txn_count": 1,
+    "avg_amount": 77.28,
+    "max_amount": 77.28,
+    "pct_card_present": 0.0,
+    "event_time": "2026-01-21T22:27:51Z"
+  },
+  {
+    "card_id": "card_00098",
+    "txn_count": 1,
+    "avg_amount": 797.73,
+    "max_amount": 797.73,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-23T10:16:16Z"
+  },
+  {
+    "card_id": "card_00222",
+    "txn_count": 1,
+    "avg_amount": 26.53,
+    "max_amount": 26.53,
+    "pct_card_present": 1.0,
+    "event_time": "2026-01-09T12:23:00Z"
+  }
+]

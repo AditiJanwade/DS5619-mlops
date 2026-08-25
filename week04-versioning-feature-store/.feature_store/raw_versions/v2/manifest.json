@@ -1,0 +1,18 @@
+{
+  "version_id": "v2",
+  "source_path": "C:\\Users\\Rushikesh\\Downloads\\week04-versioning-feature-store\\week04-versioning-feature-store\\data\\v2\\transactions.csv",
+  "content_hash": "e65f17c92ad0f722a5cf9bb07df0beef20394c0875f5937b05d14833587d6245",
+  "columns": [
+    "transaction_id",
+    "card_id",
+    "timestamp",
+    "merchant_category",
+    "card_present",
+    "is_fraud",
+    "device_fingerprint",
+    "country_code",
+    "amount_minor_units"
+  ],
+  "row_count": 125,
+  "created_at": "2026-08-25T12:31:37.047273+00:00"
+}
