@@ -1,0 +1,9 @@
+{
+  "intended_use": "This model is intended to identify potentially fraudulent transactions based on transaction-related features. Its predictions are consumed by the fraud-detection system to flag transactions for further review.",
+
+  "training_data": "The model was trained using the Week 4 card_activity feature group. Its coverage and limitations depend on the transactions and features represented in that training data, so it may not generalize well to patterns that are not represented.",
+
+  "limitations": "This model should not be fully trusted for fraud patterns that cannot be distinguished using the available features. In particular, a simple amount-threshold classifier can miss fraudulent transactions with normal amounts and may incorrectly flag legitimate transactions with unusually high amounts.",
+
+  "ethical_considerations": "A false positive can block a legitimate transaction and inconvenience or financially impact the customer. A false negative allows fraudulent activity to pass through, potentially causing financial loss to the customer or organization, so both types of errors have meaningful costs."
+}
