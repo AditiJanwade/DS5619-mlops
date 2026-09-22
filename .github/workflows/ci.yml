@@ -27,10 +27,11 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install dependencies
-        run: pip install -r week07/requirements.txt
+	working-directory: week07
+        run: pip install -r requirements.txt
       # TODO: run flake8 against src/
       - name: Lint
-        run: flake8 week07/src/
+        run: flake8 src/
 
   unit-test:
     runs-on: ubuntu-latest
@@ -41,10 +42,11 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install dependencies
-        run: pip install -r week07/requirements.txt
+	working-directory: week07
+        run: pip install -r requirements.txt
       # TODO: run the pytest suite
       - name: Run unit tests
-        run: pytest week07/tests/
+        run: pytest tests/
 
   integration-test:
     runs-on: ubuntu-latest
