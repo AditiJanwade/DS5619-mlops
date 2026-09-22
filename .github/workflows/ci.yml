@@ -27,7 +27,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install dependencies
-		working-directory: week07
+		
         run: pip install -r requirements.txt
       # TODO: run flake8 against src/
       - name: Lint
@@ -42,7 +42,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install dependencies
-		working-directory: week07
+		
         run: pip install -r requirements.txt
       # TODO: run the pytest suite
       - name: Run unit tests
