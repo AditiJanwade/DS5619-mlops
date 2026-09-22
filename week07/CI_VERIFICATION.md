@@ -1,29 +1,28 @@
-ls# CI verification
+# CI verification
 
-Fill this in after you push and watch the workflow run on GitHub (Actions
-tab of your repo). This is how we confirm your CI actually ran green in a
-real GitHub Actions runner, not just locally.
+The Week 7 CI pipeline was successfully executed on a real GitHub Actions
+runner after pushing the Week 7 implementation to the repository.
 
 ## Workflow run
 
-Paste the URL of a successful run of all three jobs (Actions tab -> click
-the run -> copy the URL):
+Successful GitHub Actions run:
 
-```
-TODO
-```
+https://github.com/AditiJanwade/DS5619-mlops/actions/runs/35787456513
 
 ## Job summary
 
-For each job, note pass/fail and how long it took:
+All three CI jobs passed successfully:
 
-- `lint`: TODO
-- `unit-test`: TODO
-- `integration-test`: TODO
+- `lint`: PASS — 14 seconds
+- `unit-test`: PASS — 10 seconds
+- `integration-test`: PASS — 20 seconds
 
-## What broke on the way there (optional but useful)
+## What broke on the way there
 
-If any job failed before you got it working, briefly note what the failure
-was and what fixed it. (Not required, but if `integration-test` gave you
-trouble, this is worth 2 sentences for your own future reference — Week 9's
-lab also builds on debugging CI-style failures.)
+During development, the CI workflow initially failed because the workflow
+commands were not running from the `week07` working directory. This caused
+Flake8 to use the wrong configuration and report lint errors.
+
+The workflow was corrected by setting `working-directory: week07` for the
+Week 7 install, lint, unit-test, and integration-test steps. After the fix,
+all three GitHub Actions jobs passed successfully.
